@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding : 0;
+
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: rgb(253, 226, 243); */
+    background-color:#212A3E;
+    padding:0.5rem
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+.liItems{
+    color:white;
+    font-weight: bold;
+    /* font-family: 'Courier New', Courier, monospace; */
+    background-color:#9BA4B5;
+    border-radius: 0.1rem;
+    font-size: 1rem;
+    margin: 0.5rem;
+    padding: 0.3rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+

@@ -1,0 +1,12 @@
+.nameInput__container{
+    /* border : 2px solid black; */
+    margin: 5px
+}
+.editProfile__container{
+    border : 2px solid black;
+    text-align: center;
+    padding:10px;
+    position: relative;
+    width:20%;
+    margin : 20px auto;
+}
